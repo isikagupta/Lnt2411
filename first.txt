@@ -5,8 +5,7 @@ pushpa  is  a  good movie
 an apple a day keeps doctor away 
 cat has 9 lives 
 war going on russia and ukraine
-<<<<<<< HEAD
-
-=======
 i am living in agra 
->>>>>>> branch-1
+ working
+
+
